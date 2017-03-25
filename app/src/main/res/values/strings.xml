@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stessypoints</string>
+    <string name="points">POINTS</string>
+    <string name="pointS">POINTS</string>
+    <string name="poinTS">POINTS</string>
+    <string name="team_1">Team 1</string>
+    <string name="team_2">Team 2</string>
+    <string name="_0">0</string>
+    <string name="_00">0</string>
+    <string name="add_1">add 3</string>
+    <string name="add_2">add 2</string>
+    <string name="reset">RESET</string>
+    <string name="free_throw">FREE THROW</string>
+    <string name="add_3">add3</string>
+
+</resources>
